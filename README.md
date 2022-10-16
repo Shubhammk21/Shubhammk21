@@ -1,10 +1,11 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shubham singh</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhammk21" alt="shubhammk21" /></a> </p>
 
 - 🌱 I’m currently learning **Masai School**
 
-- 👨‍💻 All of my projects are available at [Shubhammk21.github.io](Shubhammk21.github.io)
+- 👨‍💻 All of my projects are available at [https://shubhammk21.github.io/](https://shubhammk21.github.io/)
 
 - 💬 Ask me about **Backend Problems**
 
